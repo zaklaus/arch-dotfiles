@@ -1,0 +1,18 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "bg/background.js" ]
+   },
+   "description": "Confirms when you try to close a pinned tab.",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlFgWCfLb/syEDLzUa++Q7Bt2HBxk4nta9S9iablpweojpFF5srgMYQhRaLZsl4yJ+BV7KtPOYXupoC/7NP7nsvF7VA1pZZulUK8sVt8SEWGaj3wPqdi98cD5Fn9BBJjCzHZqWgq+/hftPZmT0aW5nVCXoi2iikFP55CgZROs0dHNpttYC67TMDC6/1P27pydO+VmFLWSuko5vyrQt5lK5U5p/dq6fRRK6DzMsVHRmQ83ChJldUKiQT2iis5mfy/ShXBNWi0n7dSXijjX5tAITXhbn4c7lHI9DMB4Gi3QqDGEEddptbc6Lb0hyrCCzZpruN1nDrqCEbKDLutbWIuKpQIDAQAB",
+   "manifest_version": 2,
+   "name": "Keep my Pinned Tab",
+   "permissions": [ "tabs", "activeTab", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.0"
+}

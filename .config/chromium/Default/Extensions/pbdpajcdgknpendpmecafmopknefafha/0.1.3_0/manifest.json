@@ -1,0 +1,26 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "underscore.js", "eventPage.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icon19.png",
+         "38": "icon38.png"
+      },
+      "default_title": "send inactive tabs to sleep"
+   },
+   "description": "Sends your inactive tabs to sleep",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCuUtS/1IMH+WieBiWpZeKFOP3rWHKxjLIQRD6ICuJIkfKhh9b6XkopRFcjkgpyf1BWOmroynbVOiA32gnKOHIB8OSNUUYrf3pg15QpWHhKnsnVpXwQqu2FJhNdr5Of3W4x/3Lu8dl03C9O26trTlAAJKR/IFn+jREv/S0/aUH1dwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "25.0",
+   "name": "Tab Hibernation",
+   "permissions": [ "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.1.3"
+}

@@ -1,0 +1,21 @@
+2016/11/09-20:20:30.669 612 Reusing MANIFEST /home/zaklaus/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/11/09-20:20:30.669 612 Recovering log #40
+2016/11/09-20:20:30.742 612 Reusing old log /home/zaklaus/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000040.log 
+2016/11/09-20:20:30.980 612 Current memtable full; waiting...
+2016/11/09-20:20:30.980 23414 Level-0 table #45: started
+2016/11/09-20:20:31.076 23414 Level-0 table #45: 249657 bytes OK
+2016/11/09-20:20:31.227 23414 Delete type=0 #40
+2016/11/09-20:20:31.252 23414 Level-0 table #47: started
+2016/11/09-20:20:31.252 23414 Level-0 table #47: 0 bytes OK
+2016/11/09-20:20:31.374 23414 Delete type=0 #44
+2016/11/09-20:20:31.374 23414 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 365 : 1
+2016/11/09-20:20:31.374 23414 Compacting 1@0 + 1@1 files
+2016/11/09-20:20:31.408 23414 Generated table #48@0: 24 keys, 125485 bytes
+2016/11/09-20:20:31.408 23414 Compacted 1@0 + 1@1 files => 125485 bytes
+2016/11/09-20:20:31.475 23414 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/11/09-20:20:31.475 23414 Delete type=2 #45
+2016/11/09-20:20:31.475 23414 Delete type=2 #42
+2016/11/09-20:20:31.475 23414 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 365 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2016/11/09-20:50:07.582 23414 Level-0 table #50: started
+2016/11/09-20:50:07.660 23414 Level-0 table #50: 725546 bytes OK
+2016/11/09-20:50:07.693 23414 Delete type=0 #46

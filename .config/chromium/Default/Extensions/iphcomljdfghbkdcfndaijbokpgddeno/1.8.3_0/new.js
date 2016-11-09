@@ -1,0 +1,2 @@
+// Cookies App for Google Chrome - HOTCLEANER.COM - Copyright (c) 2015 Vlad & Serge Strukoff. All Rights Reserved.
+chrome.runtime.sendMessage('{"id":31}',function(b){function c(){if("complete"==document.readyState){var a=document.getElementById("infobar");a.textContent=chrome.i18n.getMessage("m0",b.v.v);a.style.display="block"}else setTimeout(c,1E3)}var a=b.v;0<a.nv&&(a.nv=0,chrome.runtime.sendMessage(JSON.stringify({id:30,data:a})),c())});

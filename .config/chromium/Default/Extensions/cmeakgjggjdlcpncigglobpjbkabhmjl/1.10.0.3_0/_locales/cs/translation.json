@@ -1,0 +1,118 @@
+{
+  "langcode": "cs",
+  "about": {
+    "title": "O nás"
+  },
+  "tradeoffers": {
+    "title": "Obchodní nabídky",
+    "signedout": "Steam: Byl jste odhlášen ze svého účtu. Prosím <a href='https://steamcommunity.com/login/' target='_blank'>přihlaste se</a> nebo si nastavte <b>SteamAPI key</b> v nastavení",
+    "nooffers": "Nemáte žádné obchodní nabídky",
+    "countoffers": "Máte {{NUMBERS}} obchodních nabídek",
+    "offerfrom": "Máte obchodní nabídku od {{USERNAME}}",
+    "offernoname": "Máte obchodní nabídku",
+    "confirmation": "Jste si jist?",
+    "yourprice": "Vaše cena",
+    "theirprice": "Jejich cena",
+    "cancel": "Zrušit",
+    "openall": "Otevřít vše",
+    "open": "Otevřít",
+    "declineall": "Odmítnout vše",
+    "decline": "Odmítnout",
+    "quickaccept": "Rychle příjmout",
+    "quickrefuse": "Rychle odmítnout"
+  },
+  "marketgraph": {
+    "title": "Graf marketu"
+  },
+  "bookmarks": {
+    "title": "Záložky"
+  },
+  "faq": {
+    "title": "FAQ"
+  },
+  "settings": {
+    "title": "Nastavení",
+    "inventory": {
+      "title": "Inventář",
+      "buyset": "\"Koupit set\" tlačítko",
+      "quicksell": "\"Rychle prodat\" tlačítko",
+      "instantsell": "\"Okamžitý prodat\" tlačítko",
+      "selectall": "\"Vybrat vše\" tlačítko",
+      "getprice": "\"Získat cenu\" tlačítko inventáře",
+      "quickselldif": "Rozdíl rychlého prodání",
+      "listdelay": "Zpožděni mezi cenami",
+      "hidedefaultprice": "Schovat základní cenu",
+      "simpify": "Zjednodušit UI",
+      "tradableinfo": "Ukázat věci, které nejdou obchodovat"
+    },
+    "listingmarket": {
+      "title": "Seznam & market",
+      "quickbuy": "\"Rychle koupit\" tlačítko",
+      "no_listings": "Počet nabídek",
+      "no_history": "Počet historie",
+      "totalrow": "Totální",
+      "highlight": "Zvýraznit větší cenu"
+    },
+    "tradeoffer": {
+      "title": "Obchodní nabídka",
+      "autocheckofferprice": "Automaticky získat cenu",
+      "autodecline": "Odmítnou nedostupné nabídky",
+      "offerdelay": "Zpoždění během získávání ceny",
+      "quickaccept": "Rychle příjmout",
+      "delay": "Zpožděni",
+      "confirm": "Ukázat přijímací dialog",
+      "quickrefuse": "Rychle odmítnout",
+      "totalprice": "Získat celkovou cenu",
+      "custombuttons": "Vlastní tlačítka",
+      "manage": "Spravovat"
+    },
+    "friends": {
+      "title": "Žádosti o přátelství (0 = vypnuto)",
+      "ignoreinvites": "Ignorovat pozvánky pod",
+      "blockinvites": "Blokovat pozvánky pod",
+      "steamlevel": "Steam level nebo",
+      "private": "soukromé profily",
+      "total": "Dohromady",
+      "reset": "Resetovat"
+    },
+    "extprice": {
+      "title": "Externí ceny",
+      "showprice": "Ukázat externí ceny",
+      "masslisting": "Použít pro výpisy",
+      "bgcolor": "Barva pozadí",
+      "textcolor": "Barva textu",
+      "customprovider": "Vlastní ceny"
+    },
+    "general": {
+      "title": "Obecné",
+      "txt_apikey": "Vložte svùj API klíč",
+      "txt_custom": "Url na vlastní zvuk",
+      "auto_currency": "Automaticky (použít měnu peněženky)",
+      "auto_language": "Automaticky (použít jazyk prohlížeče)",
+      "autogetprice": "Automaticky získat cenu",
+      "on_hover": "Hover",
+      "pricedelay": "Zpoždění získání ceny (ms)",
+      "success": "Úspěch",
+      "error": "Chyba",
+      "displaynof": "Zobrazit oznámení",
+      "offers": "Obchodní nabídky",
+      "friends": "Žádosti o přátelství",
+      "comments": "Komentáře",
+      "nofsound": "Zvuk oznámení",
+      "nofsound_vol": "Hlasitost zvuku",
+      "displayvector": "Zobrazit vektorovou cenu",
+      "showsteamrep": "Zobrazit Steamrep",
+      "hidebanner": "Schovat sponzorni banner",
+      "bookmarks": "Záložky",
+      "ck_show": "Ukázat",
+      "manage": "Spravovat kategorie",
+      "clear": "Vymazat záložky",
+      "apikey": "Steam API klíč",
+      "get_apikey": "Získejte svùj API klíč",
+      "currency": "Měna",
+      "language": "Jazyk"
+    },
+    "defaultreset": "Resetovat na základní",
+    "note": "Obnovte stránku, aby se nastavení uložila"
+  }
+}

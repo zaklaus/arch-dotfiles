@@ -1,0 +1,3 @@
+// Click&Clean for Google Chrome - HOTCLEANER.COM - Copyright (c) 2016 Vlad & Serge Strukoff. All Rights Reserved.
+window.addEventListener("load",function(){function g(a){b=a.id;a=300+(window.outerWidth-window.innerWidth);h=8+(window.outerHeight-window.innerHeight);chrome.windows.update(b,{width:a,height:h,focused:!0},function(){chrome.windows.getAll({},k)})}function k(a){for(var d=0,c;c=a[d];++d)c.id!=b&&chrome.windows.remove(c.id);chrome.runtime.sendMessage('{"id":18}',e.p28?l:f)}function l(){window.Audio&&(new Audio("erased.ogg")).play();setTimeout(f,800)}function f(){chrome.windows.remove(b)}var b,e;chrome.runtime.sendMessage('{"id":3}',
+function(a){e=a;chrome.windows.getCurrent(g)})},!1);

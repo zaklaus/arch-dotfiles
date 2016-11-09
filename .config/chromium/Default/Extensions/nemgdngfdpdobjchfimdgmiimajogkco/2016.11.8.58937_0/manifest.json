@@ -1,0 +1,21 @@
+{
+   "app": {
+      "icon_color": "#6A6B6C",
+      "launch": {
+         "web_url": "https://www.reddit.com/r/windows10/"
+      },
+      "linked_icons": [  ]
+   },
+   "description": "reddit: the front page of the internet",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "MxFSxr4vQeRDogVsgweXKHT3z3gROPJ/IubVIuLNymU=",
+   "name": "Windows 10 Reddit",
+   "version": "2016.11.8.58937"
+}

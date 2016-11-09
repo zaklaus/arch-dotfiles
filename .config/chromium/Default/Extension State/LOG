@@ -1,0 +1,21 @@
+2016/11/09-18:27:40.982 607 Reusing MANIFEST /home/zaklaus/.config/chromium/Default/Extension State/MANIFEST-000001
+2016/11/09-18:27:40.982 607 Recovering log #10
+2016/11/09-18:27:41.222 607 Reusing old log /home/zaklaus/.config/chromium/Default/Extension State/000010.log 
+2016/11/09-18:27:45.222 934 Level-0 table #14: started
+2016/11/09-18:27:45.385 934 Level-0 table #14: 2239447 bytes OK
+2016/11/09-18:27:45.508 934 Delete type=0 #10
+2016/11/09-19:45:15.078 934 Level-0 table #16: started
+2016/11/09-19:45:15.152 934 Level-0 table #16: 2314185 bytes OK
+2016/11/09-19:45:15.186 934 Delete type=0 #13
+2016/11/09-20:49:15.169 934 Level-0 table #18: started
+2016/11/09-20:49:15.256 934 Level-0 table #18: 2217663 bytes OK
+2016/11/09-20:49:15.312 934 Delete type=0 #15
+2016/11/09-20:49:15.313 934 Compacting 4@0 + 1@1 files
+2016/11/09-20:49:15.536 934 Generated table #19@0: 11 keys, 8150 bytes
+2016/11/09-20:49:15.536 934 Compacted 4@0 + 1@1 files => 8150 bytes
+2016/11/09-20:49:15.614 934 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/11/09-20:49:15.614 934 Delete type=2 #18
+2016/11/09-20:49:15.614 934 Delete type=2 #8
+2016/11/09-20:49:15.614 934 Delete type=2 #11
+2016/11/09-20:49:15.614 934 Delete type=2 #16
+2016/11/09-20:49:15.615 934 Delete type=2 #14

@@ -1,0 +1,16 @@
+{
+   "background": {
+      "scripts": [ "jquery.min.js", "charmap.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "ARRO.png"
+   },
+   "description": "One-click romanize/transliterate Russian/Cyrillic pages, view easily in Latin alphabet. Memorize new words/correct Russian spelling.",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqS8FHuZQWz2lkMhNudJ2KMdBOYdDydFW/Cz0wwHUU1QitkOIiHQVeqbHmZjakZcabkSQ0kclWc1MWhc00OpInWr78EC7CCEiF+OMhTyRbEY7nNJtxckKkrlExNt5+StFIllBP70JwZfGxoO9ELxFf+594XfW+To1HFRLPlwPIxxdfCAGwR4FfISLaqMbRzmXqVwLISJ8oZLSxMEi6X43ldBbZ4F64AVJdmm2RYs6b0QxG9/Z7poJVjGtRZMXOR6OFA+lnA4dwShVXUmDWU6EQvbAvpr+i7ANXi9IZLNSk80m+wwGvt0giP+44uz4R9WjZU/sEeCrugzMHAMCcr/QyQIDAQAB",
+   "manifest_version": 2,
+   "name": "RUSSIANEASY view Russian web in Latin letters",
+   "permissions": [ "tabs", "*://*/*" ],
+   "short_name": "RUSSIANEASY.NET",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.45"
+}

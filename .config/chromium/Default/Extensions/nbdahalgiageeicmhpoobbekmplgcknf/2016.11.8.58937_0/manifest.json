@@ -1,0 +1,21 @@
+{
+   "app": {
+      "icon_color": "#0072C6",
+      "launch": {
+         "web_url": "https://dub125.mail.live.com/default.aspx?id=64855&owa=1&owasuffix=owa%2f"
+      },
+      "linked_icons": [  ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "FWfLS5+UP3bn7b1UDJJwZUcDHvw46ksF2tt3SUqOJOg=",
+   "name": "Outlook.com – zaklaus@outlook.com",
+   "version": "2016.11.8.58937"
+}

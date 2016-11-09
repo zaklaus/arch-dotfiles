@@ -1,0 +1,21 @@
+{
+   "app": {
+      "icon_color": "#E62117",
+      "launch": {
+         "web_url": "https://www.youtube.com/"
+      },
+      "linked_icons": [  ]
+   },
+   "description": "Zdieľajte svoje videá s priateľmi, rodinou a celým svetom",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "264tAgSqSJ4jTrL5A6ASexfHEjhkKMqxK4bF9oqnWGc=",
+   "name": "YouTube",
+   "version": "2016.11.8.58937"
+}

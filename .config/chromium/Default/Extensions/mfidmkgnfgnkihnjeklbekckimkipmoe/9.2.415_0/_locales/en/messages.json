@@ -1,0 +1,152 @@
+{
+   "about": {
+      "message": "About"
+   },
+   "about_contribute": {
+      "message": "If you would like to report a problem or propose a new feature, please \u003Ca target=\"_blank\" href=\"https://bitbucket.org/mirrorbrain/flashcontrol/issues/new\">submit a request\u003C/a>."
+   },
+   "about_engine": {
+      "message": "Flashcontrol is built with the \u003Ca href=\"https://adblockplus.org/en/about\" target=\"_blank\">Adblock Plus 1.11\u003C/a> filter engine."
+   },
+   "about_license": {
+      "message": "Flashcontrol is \u003Ca href='https://bitbucket.org/mirrorbrain/flashcontrol/' target='_blank'>open source software\u003C/a>, licensed under GPLv2."
+   },
+   "add_button": {
+      "message": "Add"
+   },
+   "address": {
+      "message": "URL"
+   },
+   "allow_label": {
+      "message": "Allow websites to use flash plugins"
+   },
+   "allow_page": {
+      "message": "Allow flash plugins here"
+   },
+   "allow_session": {
+      "message": "Allow this site until you exit Chrome"
+   },
+   "allow_site": {
+      "message": "Allow flash plugins on this site"
+   },
+   "browsing": {
+      "message": "Browsing"
+   },
+   "choose_content": {
+      "message": "Let me choose when to allow flash plugins (recommended)"
+   },
+   "click_to_block": {
+      "message": "Stop this plugin with Flashcontrol"
+   },
+   "click_to_play": {
+      "message": "Run this plugin with Flashcontrol"
+   },
+   "close_button": {
+      "message": "Close"
+   },
+   "color_label": {
+      "message": "Placeholder color"
+   },
+   "content": {
+      "message": "Content"
+   },
+   "context_menu": {
+      "message": "Add commands to context menu"
+   },
+   "description": {
+      "message": "Stay in control of Flash content"
+   },
+   "devtools_panel": {
+      "message": "Integrate with Chrome DevTools"
+   },
+   "exceptions": {
+      "message": "Exceptions"
+   },
+   "filter": {
+      "message": "Filter"
+   },
+   "filter_desc": {
+      "message": "Prevent unwanted content from loading."
+   },
+   "filter_label": {
+      "message": "Web filters"
+   },
+   "filter_syntax": {
+      "message": "Flashcontrol uses the Adblock Plus® filter syntax. To learn more about Adblock Plus (ABP) and the syntax visit these links:"
+   },
+   "filters_added": {
+      "message": "Create a filter that allows or blocks content by matching patterns in its URL. \u003Ca href='#'>Learn more\u003C/a>"
+   },
+   "flash_count": {
+      "message": "Show the number of flash players in the toolbar icon"
+   },
+   "flash_logo": {
+      "message": "Flash logo"
+   },
+   "green_icon": {
+      "message": "Show a green toolbar icon for 'allowed' sites"
+   },
+   "icon_label": {
+      "message": "Placeholder icon"
+   },
+   "install_success": {
+      "message": "Flashcontrol successfully installed!"
+   },
+   "no_logo": {
+      "message": "None"
+   },
+   "omnibox_desc": {
+      "message": "Give sites permission to use flash plugins."
+   },
+   "omnibox_label": {
+      "message": "Omnibox menu"
+   },
+   "plugin_logo": {
+      "message": "Plugin logo"
+   },
+   "readonly_label": {
+      "message": "Read-only"
+   },
+   "reblock_buttons": {
+      "message": "Add a 'Close' button to each flash player"
+   },
+   "reblock_desc": {
+      "message": "Block content that you don't want to see."
+   },
+   "reblock_label": {
+      "message": "Reblock buttons"
+   },
+   "recommended": {
+      "message": "Recommended security and privacy apps:"
+   },
+   "remove_filter": {
+      "message": "Remove filter"
+   },
+   "reset_settings": {
+      "message": "Reset settings"
+   },
+   "rules_label": {
+      "message": "Give websites rules to follow"
+   },
+   "run_content": {
+      "message": "Run flash plugins automatically"
+   },
+   "run_now": {
+      "message": "Run flash plugins now"
+   },
+   "save_button": {
+      "message": "Save all"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "syntax_rules": {
+      "message": "Learn more"
+   },
+   "tools": {
+      "message": "Tools"
+   },
+   "whitelist_url": {
+      "message": "Add a URL so content can load the next time you visit the site."
+   }
+}

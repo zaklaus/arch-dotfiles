@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the extension, displayed in the web store.",
+      "message": "Extension Web Dragon pour Chrome"
+   },
+   "appName": {
+      "description": "The title of the extension, displayed in the web store.",
+      "message": "Extension Web Dragon"
+   }
+}

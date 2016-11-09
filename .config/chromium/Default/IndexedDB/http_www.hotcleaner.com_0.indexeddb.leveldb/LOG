@@ -1,0 +1,9 @@
+2016/11/08-22:36:27.040 791 Reusing MANIFEST /home/zaklaus/.config/chromium/Default/IndexedDB/http_www.hotcleaner.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/11/08-22:36:27.476 791 Current memtable full; waiting...
+2016/11/08-22:36:27.476 3572 Level-0 table #5: started
+2016/11/08-22:36:27.510 3572 Level-0 table #5: 379 bytes OK
+2016/11/08-22:36:27.577 3572 Delete type=0 #3
+2016/11/08-22:36:27.578 3572 Level-0 table #7: started
+2016/11/08-22:36:27.578 3572 Level-0 table #7: 0 bytes OK
+2016/11/08-22:36:27.689 3572 Delete type=0 #4
+2016/11/08-22:36:27.689 3572 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

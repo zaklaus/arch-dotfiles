@@ -1,0 +1,35 @@
+{
+   "author": "Nota inc.",
+   "background": {
+      "persistent": false,
+      "scripts": [ "main.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "icons/19.png",
+         "38": "icons/19@2x.png"
+      }
+   },
+   "default_locale": "en",
+   "description": "Grab any image on the web and share it instantly.",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "256": "icons/128@2x.png",
+      "32": "icons/16@2x.png",
+      "48": "icons/48.png",
+      "96": "icons/48@2x.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkmVgnVJqyFzTeabOfQva/LKzVJZ14PifjhKW6Y0KqDQC1audU6YO/xS7DkiWgwCZO/ySY1Yeij+UlUoCFK0nK9zIKyTACeBavTxBeujyfd/4cxle4hj2h+Rp2CFfHEG/j2szcKO7HC1OdFtscU54h3enegP7hu/EWizTCBDcQUqzX0mFvlAivndkFRg0252U0/DvOeTfzk67+T2ZZBhGymLhviJ2niveuA6+ncBLGCxQxWxl8SKXbXQ1e10lcXHRbWA/bUjPwZUl/E1m3S7IEtlzG3WgaZSoo8FuE6KfKhbsE5aswjSrkYLyaQjHEj5X3W0mJ4v0FR20w6/KBTg7CQIDAQAB",
+   "manifest_version": 2,
+   "name": "Gyazo",
+   "options_ui": {
+      "chrome_style": false,
+      "page": "option/options.html"
+   },
+   "permissions": [ "\u003Call_urls>", "activeTab", "notifications", "contextMenus", "tabs", "clipboardWrite", "clipboardRead", "storage" ],
+   "short_name": "Gyazo",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.4.3",
+   "web_accessible_resources": [ "imgs/crop.svg", "imgs/cross.svg", "imgs/grid.svg", "imgs/selection.svg", "imgs/spinner.svg", "imgs/window-scroll.svg", "imgs/window.svg" ]
+}

@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Automatyczne tworzenie kodów QR."
+   },
+   "name": {
+      "message": "QR kod"
+   }
+}

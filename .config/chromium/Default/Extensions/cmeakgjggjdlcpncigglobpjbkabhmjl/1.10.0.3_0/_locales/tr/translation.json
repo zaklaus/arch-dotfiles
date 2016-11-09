@@ -1,0 +1,122 @@
+﻿{
+  "langcode": "tr",
+  "about": {
+    "title": "Hakkında"
+  },
+  "tradeoffers": {
+    "title": "Ticaret Teklifleri",
+    "signedout": "Steam: You have been signed out of your account. Please <a href='https://steamcommunity.com/login/' target='_blank'>sign in</a> or set <b>SteamAPI key</b> in Settings",
+    "nooffers": "Şuan gelen hiç ticaret teklifiniz yok",
+    "countoffers": "{{NUMBERS}} adet ticaret teklifiniz var",
+    "offerfrom": "{{USERNAME}} size ticaret teklifi gönderdi",
+    "offernoname": "Ticaret teklifiniz var",
+    "confirmation": "Emin misin?",
+    "yourprice": "Sizin fiyat",
+    "theirprice": "Onların fiyatı",
+    "cancel": "İptal",
+    "openall": "Tümü açık",
+    "open": "Açık",
+    "declineall": "Tümünü reddet",
+    "decline": "Reddet",
+    "quickaccept": "Hızlı kabul et",
+    "quickrefuse": "Hızlı çöpe at",
+    "payskins": "Skins ile öde",
+    "buyskins": "Skins satın al",
+    "sellskins": "Skins sat",
+    "giveaway": "Çekiliş"
+  },
+  "marketgraph": {
+    "title": "Pazar Grafiği"
+  },
+  "bookmarks": {
+    "title": "Sık Kullanılanlar"
+  },
+  "faq": {
+    "title": "S.S.S"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "inventory": {
+      "title": "Envanter",
+      "buyset": "\"Satın al\" düğmesi",
+      "quicksell": "\"Hızlı sat\" düğmesi",
+      "instantsell": "\"Anında sat\" düğmesi",
+      "selectall": "\"Tümünü seç\" düğmesi",
+      "getprice": "\"Fiyat al\" envanter düğmesi",
+      "quickselldif": "Hızlı sat dif",
+      "listdelay": "Listeler arasındaki gecikme",
+      "hidedefaultprice": "Varsayılan fiyat bilgisini gizle",
+      "simpify": "Basitleştirilmiş UI",
+      "tradableinfo": "Takas edilemez öğelerin özetini göster"
+    },
+    "listingmarket": {
+      "title": "Listeleme & Pazar",
+      "quickbuy": "\"Hızlı satın al\" düğmesi",
+      "no_listings": "Liste sayısı",
+      "no_history": "Geçmiş sayfa boyutu",
+      "totalrow": "Toplam sıra",
+      "highlight": "Üzerinde fiyat vurgula"
+    },
+    "tradeoffer": {
+      "title": "Ticaret Teklifleri",
+      "autocheckofferprice": "Teklif yapıldığında fiyatları otomatik yenile",
+      "autodecline": "Kullanılamayan teklifleri reddet",
+      "offerdelay": "Teklif fiyatını kontrol etme gecikmesi",
+      "quickaccept": "Hızlı kabul et",
+      "delay": "Gecikme",
+      "confirm": "İletişim onayını göster",
+      "quickrefuse": "Hızlı çöpe at",
+      "totalprice": "Toplam teklif fiyatını göster",
+      "custombuttons": "Özel düğmeler",
+      "manage": "Yönet"
+    },
+    "friends": {
+      "title": "Arkadaşlık İstekleri (0 = Kapalı)",
+      "ignoreinvites": "Davetleri görmezden gel",
+      "blockinvites": "Davetleri engelle",
+      "steamlevel": "Steam seviyesi veya",
+      "private": "gizli",
+      "total": "Toplam",
+      "reset": "Sıfırla"
+    },
+    "extprice": {
+      "title": "Dış Fiyatlar",
+      "showprice": "Dış fiyatı göster",
+      "masslisting": "Kitle listesi için kullan",
+      "bgcolor": "Arkaplan rengi",
+      "textcolor": "Yazı rengi",
+      "customprovider": "Özel fiyat sağlayıcı"
+    },
+    "general": {
+      "title": "Genel",
+      "txt_apikey": "API anahtarınızı girin",
+      "txt_custom": "Özel ses için bağlantı adresi",
+      "auto_currency": "Otomatik (Steam cüzdanı birimini kullan)",
+      "auto_language": "Otomatik (Tarayıcı konumunu kullan)",
+      "autogetprice": "Fiyatları otomatik al",
+      "on_hover": "Üzerinde",
+      "pricedelay": "Fiyat gecikmesi al (ms)",
+      "success": "Başarılı",
+      "error": "Hata",
+      "displaynof": "Ekran bildirimleri",
+      "offers": "Ticaret teklifleri",
+      "friends": "Arkadaşlık istekleri",
+      "comments": "Yorumlar",
+      "nofsound": "Bildirim sesi",
+      "nofsound_vol": "Ses seviyesi",
+      "displayvector": "Vektörel fiyatı göster",
+      "showsteamrep": "Steamrep'i göster",
+      "hidebanner": "Sponsor afişlerini gizle",
+      "bookmarks": "Sık kullanılanlar",
+      "ck_show": "göster",
+      "manage": "Katagorileri yönet",
+      "clear": "Sık kullanılanları temizle",
+      "apikey": "Steam API anahtarı",
+      "get_apikey": "API anahtarını al",
+      "currency": "Para Birimi",
+      "language": "Dil"
+    },
+    "defaultreset": "Varsayılanlara Sıfırla",
+    "note": "Değişikliklerin etkili olması için mevcut sayfayı yenilemeniz gerekir."
+  }
+}

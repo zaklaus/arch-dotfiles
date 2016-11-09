@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Durchtrenne die Seile, um Om Nom in diesem Physikpuzzler zu füttern!"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Cut the Rope"
+   }
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="themes/default.css"/>
+    </head>
+    <body>
+        <options-panel></options-panel>
+        <dialog id="firstrun-dialog">
+            <h3 i18n="install_success"></h3>
+            <div class="intro">
+                <div class="info-column">
+                    <h3 i18n="omnibox_label"></h3>
+                    <div i18n="omnibox_desc"></div>
+                    <img height=150 src="featureA.svg"></img>
+                </div>
+                <div class="info-column">
+                    <h3 i18n="reblock_label"></h3>
+                    <div i18n="reblock_desc"></div>
+                    <img height=150 src="featureB.svg"></img>
+                </div>
+                <div class="info-column">
+                    <h3 i18n="filter_label"></h3>
+                    <div i18n="filter_desc"></div>
+                    <img height=150 src="featureC.svg"></img>
+                </div>
+            </div>
+            <div class="gray-bar">
+                <div i18n="recommended"></div>
+                <a href="https://chrome.google.com/webstore/detail/zenmate/fdcgdnkidjaadafnichfpabhfomcebme" target="_blank">
+                    <img src="zenmate.png" width=176 height=46>
+                </a>
+            </div>
+            <div class="toolbar">
+                <button i18n="close_button" autofocus></button>
+            </div>
+        </dialog>
+        <dialog id="syntax-dialog">
+            <div i18n="filter_syntax"></div>
+            <ul>
+                <li><a href="https://adblockplus.org">https://adblockplus.org</a></li>
+                <li><a href="https://adblockplus.org/en/filter-cheatsheet">https://adblockplus.org/en/filter-cheatsheet</a></li>
+            </ul>
+            <div class="toolbar">
+                <button i18n="close_button" autofocus></button>
+            </div>
+        </dialog>
+        <script src="../libs/adblockplus/deps.js"></script>
+        <script src="../libs/adblockplus/adblockplus.js"></script>
+        <script src="../components.js"></script>
+        <script src="../gui.js"></script>
+        <script src="../options.js"></script>
+    </body>
+</html>

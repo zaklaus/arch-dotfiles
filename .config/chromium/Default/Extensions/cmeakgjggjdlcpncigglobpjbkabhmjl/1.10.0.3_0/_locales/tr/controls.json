@@ -1,0 +1,57 @@
+﻿{
+  "noreload": "No inventory reloading when sell item",
+  "quickbuy": "Hızlı satın al",
+  "reloadinvent": "Envanteri yenile (alt + R)",
+  "selectitem": "Öğe seç",
+  "selectall": "Hepsini seç",
+  "turngems": "Cevhere çevir",
+  "sendgifts": "Hediye gönder",
+  "cancel": "İptal",
+  "sell1item": "1 öğe sat",
+  "sellnitem": "{{NUMBERS}} öğe sat",
+  "quicksell": "Bu fiyata {{PRICE}} hızlı sat",
+  "instantsell": "Bu fiyata {{PRICE}} anında sat",
+  "buymissing": "Eksik parçaları satın al",
+  "autoaccept": "Otomatik kabul et",
+  "autoadjust": "Otomatik fiyat ayarla",
+  "historynoselect": "Öğe seç",
+  "queue": {
+    "removeitem": "Kuyruktan kaldır",
+    "removelower": "Remove lower",
+    "removehigher": "Remove higher",
+    "removeintrade": "Ticaret içindekileri kaldır",
+    "removeequipped": "Kuşanılanları kaldır",
+    "takelower": "Take lower",
+    "takehigher": "Take higher",
+    "emptyprice": "Fiyatı olmayanları kaldır"
+  },
+  "sort": {
+    "sortitem": "Ürün sırala",
+    "price": "Fiyat"
+  },
+  "tradingcards": {
+    "buyall": "Hepsini satın al",
+    "reload": "Listeyi yenile",
+    "dialogtitle": "Eksik kartları satın al",
+    "showpopup": "Show buy cards dialog"
+  },
+  "tradeoffers": {
+    "removeall": "Hepsini kaldır",
+    "takeall": "Hepsini al",
+    "totalprice": "Get total",
+    "notrash": "Çöp yok",
+    "skipintrade": "Ticaret içindeki öğeleri atla",
+    "noduplicate": "No duplicate",
+    "noofitems": "Öğe sayısı",
+    "recount": "Recount",
+    "youritems": "Sizin öğeleriniz",
+    "theiritem": "Karşı öğeler"
+  },
+  "nontradable": {
+    "counter": "Öğe henüz takas edilebilir değil",
+    "startdate": "First ones at",
+    "lastdate": "Last ones at",
+    "totalprice": "Toplam fiyat"
+  },
+  "contributedby": ""
+}

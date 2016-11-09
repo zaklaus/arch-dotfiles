@@ -1,0 +1,65 @@
+{
+   "background": {
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+
+   },
+   "chrome_settings_overrides": {
+      "homepage": "http://ichro.me/redirect"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "inject/js/wunderlistfix.js" ],
+      "matches": [ "https://*.wunderlist.com/*", "http://*.wunderlist.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "inject/css/gmailfix.css" ],
+      "matches": [ "https://mail.google.com/*" ]
+   }, {
+      "all_frames": true,
+      "css": [ "inject/css/gplus.css" ],
+      "matches": [ "https://plus.google.com/app/basic*" ]
+   }, {
+      "all_frames": true,
+      "js": [ "inject/js/classroom.js" ],
+      "matches": [ "https://classroom.google.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "inject/js/facebook.js" ],
+      "matches": [ "https://m.facebook.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "inject/js/notifications.js" ],
+      "matches": [ "https://www.google.com/ichrome/notifications*" ],
+      "run_at": "document_idle"
+   }, {
+      "all_frames": true,
+      "js": [ "inject/js/linkedin.js" ],
+      "matches": [ "https://touch.www.linkedin.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' 'sha256-hNWUbwB8ZS/vP+O4TfqZ/mmkMSYSJqGZ/4t5SSwAEk0=' 'sha256-1U43HAOlAXz6irAbXBbIpCr9fs/nLVDSCTx+uGZSAvY=' https://ssl.google-analytics.com https://*.uservoice.com https://www.google.com https://js.braintreegateway.com https://assets.braintreegateway.com https://www.paypalobjects.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "icon/128.png",
+      "16": "icon/16.png",
+      "48": "icon/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCNyJlz1NfUOvI1q7YiXjTvStaC99OmJCfnfo07UVF6N7/5coAGTUAASUYmdFd5LxTt4GOrODbzbbdOKO3iEuDtUZFklgvMO81tmoRPJNMf0cb1rpSfnmmB33xtgi2CWzmlVzx3pdbbkGwo2R+rwbeAQkG+zXvzgmnHDSt1a5zqjwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "39.0",
+   "name": "__MSG_extName__",
+   "offline_enabled": true,
+   "optional_permissions": [ "tabs", "topSites", "bookmarks", "management" ],
+   "options_page": "index.html#settings",
+   "permissions": [ "storage", "cookies", "sessions", "\u003Call_urls>", "webRequest", "system.cpu", "system.memory", "system.storage", "unlimitedStorage", "chrome://favicon/", "webRequestBlocking" ],
+   "short_name": "iChrome",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "3.0.0.16",
+   "web_accessible_resources": [ "index.html" ]
+}

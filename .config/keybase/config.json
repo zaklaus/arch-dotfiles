@@ -1,0 +1,11 @@
+{
+    "current_user": "zaklaus",
+    "users": {
+        "zaklaus": {
+            "device": "a5a98af302383d2e37f490115183e518",
+            "id": "8e3c44a24ab2e8bcc31b3f9c12b50f19",
+            "name": "zaklaus",
+            "salt": "62057c3d4ecb8396ba308be7a3140c90"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Перерезайте веревки, чтобы накормить Ам Няма леденцами и открыть новые уровни!"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Cut the Rope"
+   }
+}

@@ -1,0 +1,21 @@
+{
+   "app": {
+      "icon_color": "#2C81D9",
+      "launch": {
+         "web_url": "https://c9.io/zaklaus"
+      },
+      "linked_icons": [  ]
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "8gfh9h5eCURTovu9rtBPVfgP7YPPcVL1EuEVLKVFiWE=",
+   "name": "Cloud9 IDE",
+   "version": "2016.11.8.58937"
+}
