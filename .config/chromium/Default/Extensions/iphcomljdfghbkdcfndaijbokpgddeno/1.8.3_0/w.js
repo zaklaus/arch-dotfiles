@@ -1,2 +1,0 @@
-// Cookies App for Google Chrome - HOTCLEANER.COM - Copyright (c) 2015 Vlad & Serge Strukoff. All Rights Reserved.
-var window=self;importScripts("aes.js");self.addEventListener("message",function(a){var b=a.data.id;if(7==b)self.postMessage(Crypto.AES.encrypt(a.data.str,a.data.pass));else if(8==b){var c;try{c=Crypto.AES.decrypt(a.data.str,a.data.pass),self.postMessage(c)}catch(d){self.postMessage(0)}}self.close()},!1);

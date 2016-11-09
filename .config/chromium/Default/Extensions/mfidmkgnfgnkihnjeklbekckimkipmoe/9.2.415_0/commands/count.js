@@ -1,1 +1,0 @@
-collectElements(currentDocument).length
